@@ -1,1 +1,11 @@
-{"packs": []}
+{
+  "packs": [
+    {
+      "name": "rulebook-ai-tools-test",
+      "username": "botingw",
+      "repo": "rulebook-ai",
+      "path": "tools",
+      "description": "Test entry for non-standard pack validation."
+    }
+  ]
+}
