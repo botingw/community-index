@@ -6,6 +6,7 @@ import sys
 import tempfile
 from pathlib import Path
 
+from rulebook_ai.core import RuleManager # debug, test in CI env, rulebook-ai import works. assumption: rulebook-ai is installed but main branch has no community_packs yet
 from rulebook_ai.community_packs import validate_pack_structure
 
 
